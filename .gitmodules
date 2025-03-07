@@ -1,3 +1,18 @@
 [submodule "GCP---E2E-MLOPs-Pipeline"]
 	path = GCP---E2E-MLOPs-Pipeline
 	url = https://github.com/MariahFerns/GCP---E2E-MLOPs-Pipeline.git
+[submodule "gitaction-demo2"]
+	path = gitaction-demo2
+	url = https://github.com/MariahFerns/gitaction-demo2.git
+[submodule "gitaction-demo1-heroku"]
+	path = gitaction-demo1-heroku
+	url = https://github.com/MariahFerns/gitaction-demo1-heroku.git
+[submodule "dagshub-demo"]
+	path = dagshub-demo
+	url = https://github.com/MariahFerns/dagshub-demo.git
+[submodule "mlflow"]
+	path = mlflow
+	url = https://github.com/MariahFerns/mlflow.git
+[submodule "dvc_demo"]
+	path = dvc_demo
+	url = https://github.com/MariahFerns/dvc_demo.git
