@@ -1,0 +1,3 @@
+[submodule "GCP---E2E-MLOPs-Pipeline"]
+	path = GCP---E2E-MLOPs-Pipeline
+	url = https://github.com/MariahFerns/GCP---E2E-MLOPs-Pipeline.git
